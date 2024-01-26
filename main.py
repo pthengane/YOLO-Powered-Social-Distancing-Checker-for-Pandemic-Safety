@@ -1,5 +1,4 @@
 # Import the necessary libraries
-from google.colab.patches import cv2_imshow
 from scipy.spatial import distance as dist
 from src.utils import detect_people
 from src.model import get_model
