@@ -25,7 +25,7 @@ Real-time results are displayed with bounding boxes around detected individuals.
 Ensure you have the required Python packages installed. You can install them using the following command:
 
 ```bash
-pip install numpy imutils opencv-python-headless argparse scipy
+pip install numpy imutils opencv-python argparse scipy
 
 ```
 
